@@ -12,12 +12,13 @@ body {
     justify-content: center;
     align-items: center;
     gap: 2rem;
+    background-color: rgb(219, 216, 216);
 }
 #container {
     width: 20rem;
     height: 30rem;
     display: flex;
-    /* border: 2px solid; */
+
     position: relative;
     justify-content: flex-start;
     gap: 2rem;
