@@ -1,4 +1,4 @@
-const container = $("#container");
+
 const images = $(".images");
 
 const Suivant = $("#Suivant");
